@@ -1,0 +1,6 @@
+{
+  "name": "Dem Block Infinity",
+  "description": "Fast-paced arcade block demolition game with cannon evolutions, quad shot, bouncing and super-piercing bullets, exponential cascades, and mobile boss fights.",
+  "requestFramePermissions": [],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}
